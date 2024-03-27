@@ -1,21 +1,18 @@
 # 👋 Hello! I'm David.
 
-<!--
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vnahb2ajbfuvfmsv3ok64s76cy&count=1&unique=true&width=300" />
-</p>
--->
-<p align="">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vnahb2ajbfuvfmsv3ok64s76cy&count=2&unique=true&width=400" />
-</p>
+<details>
+  <summary>🎵 + ❤️</summary>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vnahb2ajbfuvfmsv3ok64s76cy&count=5&unique=true&width=400" />
+</details>
 
 - 🔭 Currently, I am studying at the university (2021 ~ 2025)
-- 🌱 I’m currently learning ```algorithms```, ```MongoDB``` and ```Dapps```
+- 🌱 I’m currently learning `algorithms`, `MongoDB` and `Dapps`
 - ✨ Almost all my projects are available on [GitHub](https://github.com/skirt-owner)
 - 👯 I am open to internships or job offers
 - 😄 Pronouns: he/him/his
 
 ### 💻 I code with:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=white&labelColor=green)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
@@ -34,32 +31,21 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### Some of my projects
-| Project | Top Language | Code Size |
-|---------|--------------|-----------|
-|[SmartRevBot](https://github.com/skirt-owner/AiogramBot)|![](https://img.shields.io/github/languages/top/skirt-owner/AiogramBot)|![](https://img.shields.io/github/languages/code-size/skirt-owner/AiogramBot)|
-|[TODO frontend](https://github.com/skirt-owner/todo-frontend)|![](https://img.shields.io/github/languages/top/skirt-owner/todo-frontend)|![](https://img.shields.io/github/languages/code-size/skirt-owner/todo-frontend)|
-|[TODO backend](https://github.com/skirt-owner/todo-backend)|![](https://img.shields.io/github/languages/top/skirt-owner/todo-backend)|![](https://img.shields.io/github/languages/code-size/skirt-owner/todo-backend)|
-|[BitMap generator](https://github.com/skirt-owner/encryption)|![](https://img.shields.io/github/languages/top/skirt-owner/encryption)|![](https://img.shields.io/github/languages/code-size/skirt-owner/encryption)|
-|[EnemyClicker](https://github.com/skirt-owner/EnemyClicker)|![](https://img.shields.io/github/languages/top/skirt-owner/EnemyClicker)|![](https://img.shields.io/github/languages/code-size/skirt-owner/EnemyClicker)|
+
+| Project                                                       | Top Language                                                               | Code Size                                                                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [SmartRevBot](https://github.com/skirt-owner/AiogramBot)      | ![](https://img.shields.io/github/languages/top/skirt-owner/AiogramBot)    | ![](https://img.shields.io/github/languages/code-size/skirt-owner/AiogramBot)    |
+| [TODO frontend](https://github.com/skirt-owner/todo-frontend) | ![](https://img.shields.io/github/languages/top/skirt-owner/todo-frontend) | ![](https://img.shields.io/github/languages/code-size/skirt-owner/todo-frontend) |
+| [TODO backend](https://github.com/skirt-owner/todo-backend)   | ![](https://img.shields.io/github/languages/top/skirt-owner/todo-backend)  | ![](https://img.shields.io/github/languages/code-size/skirt-owner/todo-backend)  |
+| [BitMap generator](https://github.com/skirt-owner/encryption) | ![](https://img.shields.io/github/languages/top/skirt-owner/encryption)    | ![](https://img.shields.io/github/languages/code-size/skirt-owner/encryption)    |
+| [EnemyClicker](https://github.com/skirt-owner/EnemyClicker)   | ![](https://img.shields.io/github/languages/top/skirt-owner/EnemyClicker)  | ![](https://img.shields.io/github/languages/code-size/skirt-owner/EnemyClicker)  |
 
 ### 🏋️‍♂️ I'm practicing on the [LeetCode](https://leetcode.com/skirt-owner/)
+
 [![LeetCode user skirt-owner](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fskirt-owner&logo=leetcode&logoColor=yellow)](https://leetcode.com/skirt-owner/)
 
 ### 🤝🏻 Where to find me:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skirtsfield)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skirtsfield@gmail.com)
 
-<!--
-**skirt-owner/skirt-owner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
