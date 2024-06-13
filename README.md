@@ -1,7 +1,5 @@
 # 👋 Hello! I'm David.
 
-![Flower Image](https://skirtowner.com:65250/api/flower?size=300)
-
 <details>
   <summary>🎵 + ❤️</summary>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vnahb2ajbfuvfmsv3ok64s76cy&count=5&unique=true&width=400" />
