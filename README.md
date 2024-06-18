@@ -1,10 +1,5 @@
 # 👋 Hello! I'm David.
 
-<details>
-  <summary>🎵 + ❤️</summary>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vnahb2ajbfuvfmsv3ok64s76cy&count=5&unique=true&width=400" />
-</details>
-
 - 🔭 Currently, I am studying at the university (2021 ~ 2025)
 - 🌱 I’m currently learning `algorithms`, `MongoDB` and `Dapps`
 - ✨ Almost all my projects are available on [GitHub](https://github.com/skirt-owner)
