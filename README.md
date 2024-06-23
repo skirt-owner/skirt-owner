@@ -34,6 +34,7 @@
 | [TODO backend](https://github.com/skirt-owner/todo-backend)   | ![](https://img.shields.io/github/languages/top/skirt-owner/todo-backend)  | ![](https://img.shields.io/github/languages/code-size/skirt-owner/todo-backend)  |
 | [BitMap generator](https://github.com/skirt-owner/encryption) | ![](https://img.shields.io/github/languages/top/skirt-owner/encryption)    | ![](https://img.shields.io/github/languages/code-size/skirt-owner/encryption)    |
 | [EnemyClicker](https://github.com/skirt-owner/EnemyClicker)   | ![](https://img.shields.io/github/languages/top/skirt-owner/EnemyClicker)  | ![](https://img.shields.io/github/languages/code-size/skirt-owner/EnemyClicker)  |
+| [Flower Plugin](https://github.com/skirt-owner/flower-plugin) | ![](https://img.shields.io/github/languages/top/skirt-owner/flower-plugin) | ![](https://img.shields.io/github/languages/code-size/skirt-owner/flower-plugin)  |
 
 ### 🏋️‍♂️ I'm practicing on the [LeetCode](https://leetcode.com/skirt-owner/)
 
