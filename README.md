@@ -1,7 +1,7 @@
 # 👋 Hello! I'm David.
 
 - 🔭 Currently, I am studying at the university (2021 ~ 2025)
-- 🌱 I’m currently learning `algorithms`, [`Go`](https://github.com/skirt-owner/a-tour-of-go) and `TypeScript (Obsidian Plugins)`
+- 🌱 I’m currently learning [`Go`](https://github.com/skirt-owner/a-tour-of-go) and `TypeScript (Obsidian Plugins)`
 - ✨ Almost all my projects are available on [GitHub](https://github.com/skirt-owner)
 - 👯 I am open to internships or job offers
 - 😄 Pronouns: he/him/his
