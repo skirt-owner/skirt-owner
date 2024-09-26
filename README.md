@@ -1,7 +1,7 @@
 # 👋 Hello! I'm David.
 
 - 🔭 Currently, I am studying at the university (2021 ~ 2025)
-- 🌱 I’m currently learning [`Go`](https://github.com/skirt-owner/a-tour-of-go) ([`Ultimate Pet`](https://github.com/skirt-owner/skirtless))
+- 🌱 I’m currently learning [`Go`](https://github.com/skirt-owner/a-tour-of-go) ([`Ultimate Pet`](https://github.com/skirt-owner/skirtless)) and Java
 - ✨ Almost all my projects are available on [GitHub](https://github.com/skirt-owner)
 - 👯 I am open to internships or job offers
 - 😄 Pronouns: he/him/his
@@ -11,9 +11,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=white&labelColor=green)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -35,6 +36,7 @@
 | [BitMap generator](https://github.com/skirt-owner/encryption) | ![](https://img.shields.io/github/languages/top/skirt-owner/encryption)    | ![](https://img.shields.io/github/languages/code-size/skirt-owner/encryption)    |
 | [EnemyClicker](https://github.com/skirt-owner/EnemyClicker)   | ![](https://img.shields.io/github/languages/top/skirt-owner/EnemyClicker)  | ![](https://img.shields.io/github/languages/code-size/skirt-owner/EnemyClicker)  |
 | [Flower Plugin](https://github.com/skirt-owner/flower-plugin) | ![](https://img.shields.io/github/languages/top/skirt-owner/flower-plugin) | ![](https://img.shields.io/github/languages/code-size/skirt-owner/flower-plugin)  |
+| [Java Calculator](https://github.com/skirt-owner/java-calculator) | ![](https://img.shields.io/github/languages/top/skirt-owner/java-calculator) | ![](https://img.shields.io/github/languages/code-size/skirt-owner/java-calculator)  |
 
 ### 🏋️‍♂️ I'm practicing on the [LeetCode](https://leetcode.com/skirt-owner/)
 
